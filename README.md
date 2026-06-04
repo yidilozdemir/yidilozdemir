@@ -9,7 +9,7 @@ Prosocial alignment through affective-cognitive architectures, multi-agent reinf
 ## Selected outputs
 
 - **CHI 2025** — first-author paper on emergent prosocial cooperation in multi-agent RL
-- **Patent [EP3742265B1](https://patents.google.com/patent/EP3742265B1)** — haptic language design (Sensae ApS)
+- **Prototyped MVP on patent [EP3742265B1](https://patents.google.com/patent/EP3742265B1)** — haptic language design (Sensae ApS)
 - **Book chapter** — co-authored in *Methods in Molecular Biology* on Channelrhodopsin protocols
 
 ## Projects as a Research Software Engineer (UCL ARC)
