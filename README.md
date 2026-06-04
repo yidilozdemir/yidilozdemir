@@ -33,7 +33,8 @@ Prosocial alignment through affective-cognitive architectures, multi-agent reinf
 
 ## Earlier: Haptics, Neuroscience & Sensorimotor Research
 
-- **Sensae ApS** (founding research assistant and data engineer) — designed haptic language for affective wearables; built physiological data analysis pipelines
+- **Sensae ApS** (early engineer, sole software) — designed haptic language for affective wearables; built physiological data analysis 
+  pipelines; developed and maintained system through multiple beta testing rounds
 - **UCL Plasticity Lab** (PI: Tamar Makin) — built multi-modal fMRI analysis pipeline; co-led multi-center sensorimotor pilot study
 - **Amherst College** — characterised zebrafish startle reflexes via neural field recordings; co-authored book chapter
 - **UMass Computational Memory Lab** — automated neuroimaging pipeline for visual cortex mapping (FreeSurfer/bash/MATLAB)
