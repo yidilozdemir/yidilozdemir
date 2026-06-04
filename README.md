@@ -20,17 +20,16 @@ Prosocial alignment through affective-cognitive architectures, multi-agent reinf
 - NLP on multimodal sociology database — [CLOSER](https://closer.ac.uk)
 
 **Scientific Computing & Simulation**
-- C++ climate simulation (project managed) — [K-Plan](https://k-plan.io)
-- Climate modelling contributions — [EuroCORDEX-UK](https://github-pages.ucl.ac.uk/EuroCORDEX-UK-plot-explorer/)
+- C++ GUI development for real-time ultrasound device (developer and project managed) — [K-Plan](https://k-plan.io)
+- Climate modelling contributions for UK branch of project — [EuroCORDEX-UK](https://github-pages.ucl.ac.uk/EuroCORDEX-UK-plot-explorer/)
 - Agent-based modelling of antimicrobial resistance spread
 
 **Infrastructure & Security**
 - Kubeflow/GPU benchmarking and deployment
 - Real-time IoT anomaly detection — [PETRAS/TAIMAS](https://petras-iot.org/project/taimas-protecting-your-infrastructure/)
 
-**Research Interfaces**
-- Real-time ultrasound device UI
-- scikit-surgery library tooling
+**Open Research**
+- scikit-surgery library tooling — [SCIKIT-SURGERY STATS DASHBOARD](https://github.com/SciKit-Surgery/sustainable-pkg-stats)
 
 ## Earlier: Haptics, Neuroscience & Sensorimotor Research
 
