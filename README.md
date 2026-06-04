@@ -12,7 +12,7 @@ Prosocial alignment through affective-cognitive architectures, multi-agent reinf
 - **Built MVP for haptic affective wearable based on in-house patent [EP3742265B1](https://patents.google.com/patent/EP3742265B1)** — haptic language design (Sensae ApS)
 - **Book chapter** — co-authored in *Methods in Molecular Biology* on Channelrhodopsin protocols
 
-## Projects as a Research Software Engineer (UCL ARC)
+## Select Projects as a Research Software Engineer (UCL ARC)
 
 **ML & Deep Learning**
 - Behavioural cloning & inverse RL on healthcare worker trajectories (JAX/Flax/Optax) — AMR-HUB
