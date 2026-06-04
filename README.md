@@ -9,7 +9,7 @@ Prosocial alignment through affective-cognitive architectures, multi-agent reinf
 ## Selected outputs
 
 - **CHI 2025** — first-author paper on emergent prosocial cooperation in multi-agent RL
-- **Prototyped MVP on patent [EP3742265B1](https://patents.google.com/patent/EP3742265B1)** — haptic language design (Sensae ApS)
+- **Built MVP for haptic affective wearable based on in-house patent [EP3742265B1](https://patents.google.com/patent/EP3742265B1)** — haptic language design (Sensae ApS)
 - **Book chapter** — co-authored in *Methods in Molecular Biology* on Channelrhodopsin protocols
 
 ## Projects as a Research Software Engineer (UCL ARC)
@@ -34,7 +34,7 @@ Prosocial alignment through affective-cognitive architectures, multi-agent reinf
 
 ## Earlier: Haptics, Neuroscience & Sensorimotor Research
 
-- **Sensae ApS** (founding engineer) — designed haptic language for affective wearables; built physiological data analysis pipelines; patent holder
+- **Sensae ApS** (founding research assistant and data engineer) — designed haptic language for affective wearables; built physiological data analysis pipelines
 - **UCL Plasticity Lab** (PI: Tamar Makin) — built multi-modal fMRI analysis pipeline; co-led multi-center sensorimotor pilot study
 - **Amherst College** — characterised zebrafish startle reflexes via neural field recordings; co-authored book chapter
 - **UMass Computational Memory Lab** — automated neuroimaging pipeline for visual cortex mapping (FreeSurfer/bash/MATLAB)
