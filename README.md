@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋 This is Idil 
 
-Research Software Engineer at [UCL's Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing/). Starting PhD at Cambridge's [Centre for Human-Inspired AI (CHIA)](https://www.chia.cam.ac.uk/) in Michaelmas 2026, working on emergent alignment in AI systems.
+Research Software Engineer at [UCL's Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing/). 
 
 ## Research interests
 
