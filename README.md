@@ -4,13 +4,14 @@ Research Software Engineer at [UCL's Advanced Research Computing Centre](https:/
 
 ## Research interests
 
-Prosocial alignment through affective-cognitive architectures, multi-agent reinforcement learning, homeostatic goal grounding, embodied cognition approaches to AI safety.
+Prosocial alignment through affective-cognitive architectures, multi-agent reinforcement learning, homeostatic goal grounding, embodied cognition approaches to AI safety and learning.
 
 ## Selected outputs
 
 - **CHI 2025** — first-author paper on emergent prosocial cooperation in multi-agent RL
 - **Built MVP for haptic affective wearable based on in-house patent [EP3742265B1](https://patents.google.com/patent/EP3742265B1)** — haptic language design (Sensae ApS)
 - **Book chapter** — co-authored in *Methods in Molecular Biology* on Channelrhodopsin protocols
+- **Independent LLM affect research project** -- completed as part of [the Digital Minds research sprint by Apart Research](https://apartresearch.com)
 
 ## Select Projects as a Research Software Engineer (UCL ARC)
 
@@ -18,6 +19,7 @@ Prosocial alignment through affective-cognitive architectures, multi-agent reinf
 - Behavioural cloning & inverse RL on healthcare worker trajectories (JAX/Flax/Optax) — AMR-HUB
 - Deep learning CT-scan analysis pipelines across multinational clusters
 - NLP on multimodal sociology database — [CLOSER](https://closer.ac.uk)
+- Control/autonomy based Model-relevant affect detection and preferences in models - [valence-detection](https://github.com/yidilozdemir/valence-detection)
 
 **Scientific Computing & Simulation**
 - C++ GUI development for real-time ultrasound device (developer and project managed) — [K-Plan](https://k-plan.io)
